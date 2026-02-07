@@ -18,14 +18,16 @@ role: Cloud Infrastructure Architect
 company: Currently Employed
 
 expertise:
-  - Cloud Architecture & Infrastructure Design
-  - AWS Services & Solutions
-  - AI/ML Infrastructure & Deployment
+  - Multi-Cloud Architecture (AWS, Azure, GCP)
+  - Infrastructure as Code & DevOps
+  - AI/ML Infrastructure & Agentic AI
+  - LangChain, n8n & MCP Integrations
   - Security & Compliance
 
 current_focus:
-  - Building scalable cloud-native solutions
-  - Exploring AI/ML infrastructure patterns
+  - Building AI-powered automation workflows
+  - Designing multi-cloud solutions
+  - Exploring Agentic AI patterns
   - Contributing to open source projects
 ```
 
@@ -35,6 +37,8 @@ current_focus:
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -70,6 +74,58 @@ current_focus:
 
 ---
 
+### 🔷 Azure Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_VMs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure VMs"/>
+  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white" alt="Azure Functions"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="AKS"/>
+  <img src="https://img.shields.io/badge/Blob_Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Blob Storage"/>
+  <img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Azure SQL"/>
+  <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure ML"/>
+  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Entra ID"/>
+</p>
+
+---
+
+### 🌐 GCP Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Compute_Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Compute Engine"/>
+  <img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=googlecloudfunctions&logoColor=white" alt="Cloud Functions"/>
+  <img src="https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=kubernetes&logoColor=white" alt="GKE"/>
+  <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat-square&logo=googlecloudstorage&logoColor=white" alt="Cloud Storage"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run"/>
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/IAM-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP IAM"/>
+</p>
+
+---
+
+### 🤖 AI & Agentic AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/RAG-00ADD8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PC9zdmc+&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Vector_DBs-FF6F61?style=flat-square&logo=pinecone&logoColor=white" alt="Vector DBs"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic_Workflows-8B5CF6?style=flat-square&logoColor=white" alt="Agentic Workflows"/>
+  <img src="https://img.shields.io/badge/LLM_Orchestration-10B981?style=flat-square&logoColor=white" alt="LLM Orchestration"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=flat-square&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI_Agents-EC4899?style=flat-square&logoColor=white" alt="AI Agents"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -101,11 +157,11 @@ current_focus:
 
 ### 🌟 What I'm Up To
 
-- 🔭 **Currently working on:** Cloud-native infrastructure and AI/ML pipelines
-- 🌱 **Learning:** Advanced AI/ML deployment patterns, FinOps practices
-- 👯 **Looking to collaborate on:** Open source cloud/infrastructure projects
-- 💬 **Ask me about:** AWS, Cloud Architecture, Infrastructure as Code, DevSecOps
-- 🎯 **2026 Goals:** Contribute more to open source, share knowledge through blogs
+- 🔭 **Currently working on:** Multi-cloud infrastructure and Agentic AI workflows
+- 🌱 **Learning:** Advanced LLM orchestration, MCP integrations, AI agent patterns
+- 👯 **Looking to collaborate on:** Open source AI/cloud infrastructure projects
+- 💬 **Ask me about:** AWS, Azure, GCP, LangChain, n8n, MCP, Agentic AI, IaC
+- 🎯 **2026 Goals:** Build more AI agents, contribute to open source, share knowledge
 
 ---
 
