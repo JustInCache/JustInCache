@@ -133,7 +133,7 @@ current_focus:
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JustInCache&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
   </a>
   <a href="https://github.com/JustInCache">
-    <img src="https://streak-stats.demolab.com/?user=JustInCache&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustInCache&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
   </a>
 </p>
 
@@ -149,7 +149,7 @@ current_focus:
 
 <p align="center">
   <a href="https://github.com/JustInCache">
-    <img src="https://github-profile-trophy.vercel.app/?username=JustInCache&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" alt="GitHub Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=JustInCache&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
   </a>
 </p>
 
